@@ -3,7 +3,7 @@ Simple piece of code to run a TFlite model on Arduino Nano 33 BLE sense.
 
 Script description as follows: 
 
-1. Data_Acquisition_Arduino: Code to read and save the data from Arduino Nano.
+1. Data_Acquisition_Arduino: Code to read and save the data from Arduino Nano. This should be compiled when MCU is in acquisition mode.
 
 2. Data_Visualization: Script for simple visualization of data
 
