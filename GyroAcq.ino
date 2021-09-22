@@ -1,3 +1,5 @@
+//This is an adjustment of the example from the LSM9DS1 library
+
 /*
   Arduino LSM9DS1 - Simple Gyroscope
 
