@@ -8,3 +8,5 @@ Script description as follows:
 2. Data_Visualization: Script for simple visualization of data
 
 3. ML_Model: Training the model and convertion to tflite file. 
+
+4. GyroAcq is the embedded C putting the MCU in acquisition mode
