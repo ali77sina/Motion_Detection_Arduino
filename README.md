@@ -14,3 +14,5 @@ Script description as follows:
 5. Code.ino is the script implementing the tflite model on the Arduino Nano.
 
 6. tfliteModel.h is the C array of the learned finalized model.
+
+*NOTE*: The tfliteModel.h and the Code.ino files should be in the same directory, or the path should be altered in the Code.ino file to the location of the tfliteModel.h file. 
