@@ -20,3 +20,5 @@ Script description as follows:
 For access to data, navigate to the link below in your broswer of choice and download the dataset. Again, make sure that in your ML_Model script, the path is correctly set to have access to these data files.
 
 https://www.kaggle.com/alehkavi/horizontal-vs-vertical-motion-prediction
+
+*PS*: The vertical motion resembels more of a "whip" slash kind of movement, this was because of the data collected. you can collect your own data in your training to change this. Also the orientation of the Nano is important since the model was only trained on the accelerometer data not taking into account the gyroscpoe.
