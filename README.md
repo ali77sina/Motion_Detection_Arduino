@@ -19,4 +19,4 @@ Script description as follows:
 
 For access to data, navigate to the link below in your broswer of choice and download the dataset. Again, make sure that in your ML_Model script, the path is correctly set to have access to these data files.
 
-![image](https://user-images.githubusercontent.com/54308350/134804327-85d416ec-e573-48d6-9d0e-a8f7f47de935.png)
+https://www.kaggle.com/alehkavi/horizontal-vs-vertical-motion-prediction
